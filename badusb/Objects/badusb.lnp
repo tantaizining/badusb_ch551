@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\badusb.obj" 
+TO ".\Objects\badusb" 
+PRINT(".\Listings\badusb.m51") RAMSIZE(256) 
