@@ -1,7 +1,7 @@
 # badusb_ch551
 
 #### Description
-基于ch551/ch552单片机制作的可以使电脑关机的badusb整蛊小工具。
+A badusb based on ch551/ch552 which can auto shut-down your computer.
 
 #### Software Architecture
 Software architecture description
@@ -14,9 +14,9 @@ Software architecture description
 
 #### Instructions
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  You can only download the hex and gerber files as well as the ISPTOOL.
+2.  The hex file can be found in the path: badusb.doc-object.doc-badusb.hex
+3.  The gerber files can be found in the badusb1.1.rar
 
 #### Contribution
 
