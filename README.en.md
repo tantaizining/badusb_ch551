@@ -13,12 +13,12 @@ Software architecture description
 3.  Get your pcb ready 
 4.  Short the D+ and D++ port（that means pull up D+, DO NOT SOLDER LED）, then plug it into the computer
 5.  Download the hex file to the MCU
-6.  Plug out
+6.  Plug out, disconnect D+ and D++
 7.  For now, once you plug in your badusb device, the computer will begin to shut-down in 5s
 
 #### Instructions
 
-1.  You can only download the hex and gerber files as well as the ISPTOOL if you do not interested in the process.
+1.  You can just download the hex and gerber files as well as the ISPTOOL if you do not interested in the process.
 2.  The hex file can be found in the path: badusb.doc-object.doc-badusb.hex
 3.  The gerber files can be found in the badusb1.1.rar
 
